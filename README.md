@@ -7,7 +7,7 @@
 I have been working on different courses to build are redefine my Website designer skill, I have taken a course with design+codes where they design user interfaces with the most up-to-date technologies.
 
 <p align="center">
- <img src="https://github.com/AnthonyDesignCode/IMAGERY/blob/main/MacBook%20Pro%2016_%20-%201.png, width="1000"/>
+ <img src="https://github.com/AnthonyDesignCode/IMAGERY/blob/main/MacBook%20Pro%2016_%20-%201.png"
 
 
 
