@@ -1,4 +1,4 @@
-![White Minimalist Elegant Neutral LinkedIn Banner](https://github.com/AnthonyDesignCode/IMAGERY/blob/main/Banner.png),width=500      
+![White Minimalist Elegant Neutral LinkedIn Banner,width="500"](https://github.com/AnthonyDesignCode/IMAGERY/blob/main/Banner.png)     
  
 ### 👋 Hi there! I'm a self-taught Mobile/Website User Interface Designer and I'm excited to show you some of the projects I've been working on.
 
