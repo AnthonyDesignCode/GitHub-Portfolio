@@ -53,3 +53,23 @@ What did I learn?
 
 **Tech Used**
 - 🎨 Figma
+
+### Mobile PlantStore App - Xcode
+PlantStore is a classic 'Store App' coded with SwiftUI. 
+
+<p align="center">
+ <img src="https://github.com/AnthonyDesignCode/IMAGERY/blob/main/MacBook%20Pro%2016_%20-%204.png">
+
+**Tech Used**
+- 🎨 SwiftUI
+- 🎬 Animations
+
+### Mobile Sandwich Club App - Xcode
+Sandwich Club is a classic 'Store App' coded with SwiftUI. 
+
+<p align="center">
+ <img src="https://github.com/AnthonyDesignCode/IMAGERY/blob/main/MacBook%20Pro%2016_%20-%205.png">
+
+**Tech Used**
+- 🎨 SwiftUI
+  
