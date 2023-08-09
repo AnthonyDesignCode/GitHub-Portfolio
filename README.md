@@ -9,5 +9,19 @@ I have been working on different courses to build are redefine my Website design
 <p align="center">
  <img src="https://github.com/AnthonyDesignCode/IMAGERY/blob/main/MacBook%20Pro%2016_%20-%201.png">
 
+What's new?
+- A refreshed Home Screen
+- Updated UI with ai imagery 
+- App-wide consistency in Buttons/Textfield/Sheet styles
+- More to come!
+- 
+All the images are created using Midjourney.
+
+**Tech Used**
+- 🎨 Figma
+- 🤖 Midjourent
+- 🖼️ Wireframes
+
+
 
 
